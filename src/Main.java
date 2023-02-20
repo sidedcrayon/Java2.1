@@ -9,6 +9,7 @@ public class Main {
             bonus = price / miles;
         }
 
+
 System.out.println("Количество бонусов =");
         System.out.println(bonus);
 
