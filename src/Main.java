@@ -5,7 +5,6 @@ public class Main {
         int miles = 20;
 
         int bonus;
-
             bonus = price / miles;
 
 
