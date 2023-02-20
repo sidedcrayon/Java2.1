@@ -4,8 +4,7 @@ public class Main {
         int price = 31000;
         int miles = 20;
 
-        int bonus;
-        bonus = price / miles;
+        int bonus = price / miles;
 
 
         System.out.println("Количество бонусов =");
